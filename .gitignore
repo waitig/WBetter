@@ -1,0 +1,11 @@
+cache/
+temp/
+*.bak
+*.css.bak
+*.php.bak
+*.swp
+bak/
+test.*
+*.rar
+*.zip
+.idea/
